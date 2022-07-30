@@ -1,1 +1,1 @@
-# Fazer uma  com ECS com CodeBuild / CodeCommit / CodePipeline 
+# Fazer uma automação com ECS com CodeBuild / CodeCommit / CodePipeline 
